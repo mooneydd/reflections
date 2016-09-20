@@ -1,0 +1,15 @@
+Reflections on git
+
+git log
+git diff
+git checkout # move the HEAD to earlier version
+git clone
+git init  # initialize a new git directory
+git status
+
+
+Problems:
+1) There was a stat flag.  I forget the detail
+2) How to use BBEdit as default editor
+
+
