@@ -10,7 +10,7 @@ Can track differences in versions?  Can revert the entire project to an earlier 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-git log
+Use git add to add only one file to staging area then commit at a time.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
